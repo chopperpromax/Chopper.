@@ -1,7 +1,7 @@
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the Second robotic competition of Cecyteq 2025.
+This repository contains engineering materials of a self-driven vehicle's model participating in the Second robotic's competition of Cecyteq 2025.
 
 ## Content
 
